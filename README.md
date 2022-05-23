@@ -1,0 +1,2 @@
+# SMM
+Smallest minimum multiple
